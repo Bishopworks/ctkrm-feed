@@ -1,0 +1,18 @@
+{
+  "providerName": "CTKRM TV",
+  "categories": [
+    {
+      "title": "Sermons",
+      "items": [
+        {
+          "title": "Welcome to CTKRM TV",
+          "description": "This is a test video used to verify the Roku feed.",
+          "thumbnail": "https://picsum.photos/320/180",
+          "background": "https://picsum.photos/1280/720",
+          "videoUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "releaseDate": "2026-11-07"
+        }
+      ]
+    }
+  ]
+}
