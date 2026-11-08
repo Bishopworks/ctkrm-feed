@@ -1,18 +1,25 @@
 {
   "providerName": "CTKRM TV",
+
+  "live": {
+    "isLive": true,
+    "title": "Sunday Worship Service",
+    "streamUrl": "https://your-live-stream.m3u8",
+    "thumbnail": "https://..."
+  },
+
+  "schedule": [
+    {
+      "start": "2026-11-08T10:00:00",
+      "end": "2026-11-08T11:30:00",
+      "title": "Sunday Worship"
+    }
+  ],
+
   "categories": [
     {
       "title": "Sermons",
-      "items": [
-        {
-          "title": "Welcome to CTKRM TV",
-          "description": "This is a test video used to verify the Roku feed.",
-          "thumbnail": "https://picsum.photos/320/180",
-          "background": "https://picsum.photos/1280/720",
-          "videoUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-          "releaseDate": "2026-11-07"
-        }
-      ]
+      "items": []
     }
   ]
 }
